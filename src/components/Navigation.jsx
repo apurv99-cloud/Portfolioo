@@ -200,8 +200,8 @@ const Navigation = () => {
               className="text-xl font-bold"
               onClick={(e) => handleItemClick("home", e)}
             >
-              <span className="text-black">Ro</span>
-              <span className="text-[#DC2626]">hit</span>
+              <span className="text-black">Apu</span>
+              <span className="text-[#DC2626]">rva</span>
             </a>
 
             <button
