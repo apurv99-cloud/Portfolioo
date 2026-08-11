@@ -1,0 +1,17 @@
+@import "tailwindcss";
+/* Hide navbar and scroll-to-top button when modal is open */
+body.modal-open nav {
+  display: none !important;
+}
+
+body.modal-open .scroll-to-top,
+body.modal-open #scrollToTop,
+body.modal-open .back-to-top {
+  display: none !important;
+}
+
+body.modal-open .scroll-to-top,
+body.modal-open .back-to-top,
+body.modal-open #scrollToTop {
+  display: none !important;
+}
