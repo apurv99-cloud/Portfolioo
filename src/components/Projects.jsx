@@ -159,7 +159,7 @@ const Projects = () => {
       title: "Route Deviation Detection System",
       description:
         "A backend-oriented route monitoring system designed to track routes, detect deviations and anomalies, and support mapping and tracking workflows.",
-      image: "/photos/routeguard.png",
+      image: "/photos/image.png",
       githubUrl: "https://github.com/apurv99-cloud/RouteGuard-Backend-System",
       liveUrl: null,
       technologies: ["Spring Boot", "Java", "PostgreSQL", "REST API", "Docker"],
